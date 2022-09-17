@@ -65,7 +65,7 @@ export const config = {
       id: "oyuVB59blP2BksYvdIoBS-6Ek0YU",
 //       id: "oyuVB5_76raBcZXXwZ5-vbtPzRMg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "u2cNVVrU70mqcU_rNhBcS5MNGzz4TQr9AYX-e_OkwoA",
+      useTemplateId: "mOqGxIGfPmjMxnh0w37Zx1gmz0o4gFIoMnRPvqJ6aNA",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -100,7 +100,7 @@ export const config = {
       id: "oyuVB59blP2BksYvdIoBS-6Ek0YU",
 //       id: "oyuVB5_76raBcZXXwZ5-vbtPzRMg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "yeU0PcfxMTr9itlYmNirfHHuZ_wfnDK8TxmQZweWa_U",
+      useTemplateId: "mOqGxIGfPmjMxnh0w37Zx1gmz0o4gFIoMnRPvqJ6aNA",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -238,3 +238,21 @@ export const config = {
 
 
 }
+
+
+/**
+{{date.DATA}}
+{{holidaytts.DATA}}
+{{city.DATA}}天气：{{weather.DATA}} 
+最低气温: {{min_temperature.DATA}}   
+最高气温: {{max_temperature.DATA}} 
+今天是我们相恋白头的第{{love_day.DATA}}天
+今天是我们一见钟情的第{{marry_day.DATA}}天
+
+{{birthday_message.DATA}}
+{{one_talk.DATA}} -- {{talk_from.DATA}}
+{{note_en.DATA}}   
+{{note_ch.DATA}}
+
+Lovey: {{earthy_love_words.DATA}} 
+*/
