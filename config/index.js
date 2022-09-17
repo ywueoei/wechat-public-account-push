@@ -65,7 +65,7 @@ export const config = {
       id: "oyuVB59blP2BksYvdIoBS-6Ek0YU",
 //       id: "oyuVB5_76raBcZXXwZ5-vbtPzRMg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "3FUD1Za15fG7YNezPvhc22D3Qyu9X7be21a5YNF3mjI",
+      useTemplateId: "as9SEIIq7ouh3ff_V6DGfcCx6qwMVS_kBsKZDQw5wD8",
       // 所在省份
       province: "陕西",
       // 所在城市
