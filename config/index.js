@@ -30,9 +30,9 @@ export const config = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -65,7 +65,7 @@ export const config = {
       id: "oyuVB59blP2BksYvdIoBS-6Ek0YU",
 //       id: "oyuVB5_76raBcZXXwZ5-vbtPzRMg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "VdOzo3Poal5_1lWaEBLBZGI9j-1zYetMGpBZwuhRnSI",
+      useTemplateId: "3FUD1Za15fG7YNezPvhc22D3Qyu9X7be21a5YNF3mjI",
       // 所在省份
       province: "陕西",
       // 所在城市
