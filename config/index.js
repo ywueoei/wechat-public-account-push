@@ -81,8 +81,8 @@ export const config = {
         {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09"},
         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-        {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+//         {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+//         {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
@@ -91,45 +91,45 @@ export const config = {
         // 结婚纪念日
         {"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
-        {"keyword": "ex_day", date: "2022-09-10"},
+//         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+//     {
+//       name: "老婆1",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆2",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆3",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
     // 你可以不断按格式往下增加
     // ...
   ],
