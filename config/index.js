@@ -256,5 +256,5 @@ export const config = {
 {{note_en.DATA}}   
 {{note_ch.DATA}}
 
-Lovey: {{earthy_love_words.DATA}} 
+Lovey: {{earthy_love_words.DATA}}
 */
